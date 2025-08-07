@@ -18,10 +18,9 @@ Mi objetivo es convertirme en un desarrollador completo, con bases sólidas, hab
 
 ## 💻 Tecnologías que he utilizado
 
-- 📘 PSeInt (algoritmia y lógica)
 - 🐍 Python
-- 🐙 Git & GitHub (aprendiendo a manejar repositorios y versionado)
-- ☕ Próximam:ente Java y más lenguajes de programación
+- 🐙 Git & GitHub 
+- ☕ JavaScript y más lenguajes de programación
 
 ---
 
@@ -55,4 +54,3 @@ Estoy aprendiendo activamente nuevas herramientas y buenas prácticas en el desa
 
 Estoy abierto a colaborar en proyectos, prácticas o simplemente compartir ideas. 
 Email: kike17lopez17@gmail.com
-Github: luislopez-17
